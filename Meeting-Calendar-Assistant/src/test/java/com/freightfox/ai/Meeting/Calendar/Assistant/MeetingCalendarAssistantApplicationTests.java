@@ -1,10 +1,10 @@
-package com.vermau2k01.dynamic_pdf_generator;
+package com.freightfox.ai.Meeting.Calendar.Assistant;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DynamicPdfGeneratorApplicationTests {
+class MeetingCalendarAssistantApplicationTests {
 
 	@Test
 	void contextLoads() {

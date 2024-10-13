@@ -1,13 +1,13 @@
-package com.vermau2k01.dynamic_pdf_generator;
+package com.freightfox.ai.Meeting.Calendar.Assistant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DynamicPdfGeneratorApplication {
+public class MeetingCalendarAssistantApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DynamicPdfGeneratorApplication.class, args);
+		SpringApplication.run(MeetingCalendarAssistantApplication.class, args);
 	}
 
 }
