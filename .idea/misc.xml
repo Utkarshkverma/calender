@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/dynamic_pdf_generator/pom.xml" />
+        <option value="$PROJECT_DIR$/Meeting-Calendar-Assistant/pom.xml" />
       </list>
     </option>
   </component>
